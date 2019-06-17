@@ -1,0 +1,33 @@
+POST http://localhost:8080/api/admin/selectuser
+Content-Type: application/json
+
+{
+  "number": "1001"
+}
+
+###
+POST http://localhost:8080/api/admin/selectexam
+Content-Type: application/json
+
+{
+  "id": 1
+}
+
+###
+
+POST http://localhost:8080/api/admin/selectname
+Content-Type: application/json
+
+{
+  "name": "计算机网络"
+}
+
+###
+POST http://localhost:8080/api/admin/selectlist
+Content-Type: application/json
+
+###
+POST http://localhost:8080/api/admin/selectuserexamlist
+Content-Type: application/json
+
+###

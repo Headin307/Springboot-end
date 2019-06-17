@@ -1,0 +1,12 @@
+POST http://localhost:8080/api/admin/addexam
+Content-Type: application/json
+
+{
+"name": "数据库",
+  "classRoom": "丹青530",
+  "userNum": 2,
+  "startTime": "2019-06-18 09:30",
+  "endTime": "2019-06-18 12:00"
+}
+
+###

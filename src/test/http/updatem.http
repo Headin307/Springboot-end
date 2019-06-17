@@ -1,0 +1,8 @@
+POST http://localhost:8080/api/admin/updatem
+Content-Type: application/json
+
+{
+  "name": "张璐思",
+  "description": "新监考任务任务说明"
+}
+###

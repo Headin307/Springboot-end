@@ -1,0 +1,15 @@
+POST http://localhost:8080/api/admin/updateuser
+Content-Type: application/json
+
+{
+  "number": "1003",
+  "name": "周诚",
+  "pro": "软件工程",
+  "intro":"student",
+  "phonenum": "123456",
+  "password": "1003",
+  "authority": 1,
+  "id":4
+}
+
+###

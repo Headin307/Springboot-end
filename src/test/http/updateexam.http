@@ -1,0 +1,12 @@
+POST http://localhost:8080/api/admin/updateexam
+Content-Type: application/json
+
+{
+  "name": "线性代数",
+  "classRoom": "丹青110",
+  "userNum": 2,
+  "startTime": "2019-06-17 10:00",
+  "endTime": "2019-06-17 11:30",
+  "id": 1
+}
+###
